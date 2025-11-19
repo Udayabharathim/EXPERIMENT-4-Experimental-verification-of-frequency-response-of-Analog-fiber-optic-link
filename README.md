@@ -1,4 +1,4 @@
-
+  mmm
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
@@ -41,34 +41,26 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## BLOCK DIAGRAM
+## BLOCK DIAGRAM 
+<img width="624" height="394" alt="515233977-8c1b675a-29df-4757-b5e7-efd5282a107b" src="https://github.com/user-attachments/assets/0e2cd3bb-a328-419d-b8df-6ed6ca809bd4" />
 
-*(Insert block diagram here)*
 
----
+## TABULATION
 
-## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
+![WhatsApp Image 2025-11-19 at 21 02 24_9f80197d](https://github.com/user-attachments/assets/5d7668f5-255a-408e-b96c-41eb4dd1b0df)
 
-*(Insert connection diagram here)*
-
----
-
-## TABULATION  
-**Transmission through Analog Link**
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
 ---
 
 ## MODEL GRAPH
+<img width="837" height="367" alt="515235362-3fa6751f-e76f-488b-b700-e1b3ead52c95" src="https://github.com/user-attachments/assets/ca983510-f860-4642-a214-37512a6630bf" />
 
-*(Insert model graph here)*
+
+## OUTPUT GRAPH
+![WhatsApp Image 2025-11-19 at 21 03 26_802a52ca](https://github.com/user-attachments/assets/e1ee13b4-79e2-4a16-8057-1e4406c23911)
+
 
 ---
 
 ## RESULT
-
-*(Summarize observations and conclusions here)*
+Thus, the frequency response of the analog fiber optic link was successfully studied, and the bandwidth was determined to be 75 kHz.
